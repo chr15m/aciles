@@ -1,0 +1,8 @@
+HTTP/1.0 200 OK
+Content-Type: text/plain
+Content-Length: 14
+Access-Control-Allow-Methods: GET, POST
+Access-Control-Allow-Origin: *
+
+alert('hi!');
+
