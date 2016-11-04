@@ -1,4 +1,4 @@
-#N canvas 601 111 450 300 10;
+#N canvas 600 106 450 300 10;
 #X obj 258 114 r <PD;
 #X msg 20 114 \; PD> a rather long message;
 #X obj 208 18 web-server 8999 PD;
